@@ -1,0 +1,7 @@
+Figma link: https://www.figma.com/design/0gR96KoMmIhuFoGJXW5KKR/Law-of-Proximity?node-id=0-1&t=GuAEooQdbFmg4im1-1
+
+Explanation:
+
+The "bad" design is simply bad due to all elements simply bring grouped together with no cohesive logic to their grouping. In fact, there is no grouping whatsoever. As stated in Law of Proximity, their closeness is supposed to be an attribute of their similarity, yet here, they are very clearly different. Hence, this creates confusion for the viewer
+
+The "good" design, on the other hand, is grouped thoughtfully and spaced apart from each other as well. Hence, the design is cohesive and intuitive for a viewer.
